@@ -1,0 +1,2 @@
+# myphoto
+my photo store
